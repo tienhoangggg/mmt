@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.exe
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.deps.json
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.dll
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\ref\client.dll
+C:\Users\Admin\Documents\GitHub\mmt\client\bin\Debug\net5.0\client.pdb
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.dll
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\ref\client.dll
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.pdb
+C:\Users\Admin\Documents\GitHub\mmt\client\obj\Debug\net5.0\client.genruntimeconfig.cache

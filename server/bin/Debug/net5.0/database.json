@@ -1,0 +1,26 @@
+{
+  "player1": {
+    "user": "player1",
+    "password": "12345",
+    "date": "01/01/2002",
+    "fullname": "Tran Van Player1",
+    "note": "xin chao, minh la player1",
+    "point": 1
+  },
+  "player2": {
+    "user": "player2",
+    "password": "12345",
+    "date": null,
+    "fullname": "Nguyen Thi Player2",
+    "note": "xin chao",
+    "point": 0
+  },
+  "player3": {
+    "user": "player3",
+    "password": "54321",
+    "date": null,
+    "fullname": null,
+    "note": null,
+    "point": 0
+  }
+}
